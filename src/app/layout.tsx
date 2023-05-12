@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Sean Cotter',
-  description: 'I am a full stack software developer with a passion for building beautiful and functional web applications. I am currently working as a software engineer at Nestle Nespresso SA.',
+  description: 'My name is Sean Cotter, I am a full stack web developer located outside of Philadelphia, PA. I specialize in React, Typescript, Node.JS and Go.',
   icons: {
     icon: '/favicon.ico',
   },
@@ -15,7 +15,7 @@ export const metadata = {
     locale: 'en_IE',
     url: 'https://cotter.tech',
     title: 'Sean Cotter',
-    description: 'I am a full stack software developer with a passion for building beautiful and functional web applications. I am currently working as a software engineer at Nestle Nespresso SA.',
+    description: 'My name is Sean Cotter, I am a full stack web developer located outside of Philadelphia, PA. I specialize in React, Typescript, Node.JS and Go.',
     images: [
       {
         url: '/splash.png',
