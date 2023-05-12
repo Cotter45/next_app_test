@@ -7,7 +7,7 @@ export default function PageContainer({
 }) {
   return (
     <main
-      className="relative w-full h-[calc(100%-4rem)] min-h-[calc(100%-4rem)] flex flex-col z-10 overflow-y-auto"
+      className="relative w-full h-full min-h-full flex flex-col z-10"
     >
       <div className={`h-full w-full z-10 flex flex-col items-center ${classes}`}>
         {children}

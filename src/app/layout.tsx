@@ -35,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <main className="relative w-full h-[calc(100%-4rem)] min-h-[calc(100%-4rem)] flex flex-col z-10 overflow-y-auto">
+        <main className="relative w-full h-full min-h-full flex flex-col z-10 overflow-y-auto">
           <div
             className='h-full w-full z-10 flex flex-col items-center'
           >
